@@ -1,2 +1,2 @@
-# RAG-chatbot-using-OpenAI
+# RAG-chatbot
 A RAG chatbot using OpenAI and Langchain
